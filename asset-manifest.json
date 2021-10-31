@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/enstd/static/css/main.c7942577.chunk.css",
+    "main.js": "/enstd/static/js/main.21d1b4de.chunk.js",
+    "main.js.map": "/enstd/static/js/main.21d1b4de.chunk.js.map",
+    "runtime-main.js": "/enstd/static/js/runtime-main.1da266c6.js",
+    "runtime-main.js.map": "/enstd/static/js/runtime-main.1da266c6.js.map",
+    "static/css/2.d1194fe6.chunk.css": "/enstd/static/css/2.d1194fe6.chunk.css",
+    "static/js/2.501d2981.chunk.js": "/enstd/static/js/2.501d2981.chunk.js",
+    "static/js/2.501d2981.chunk.js.map": "/enstd/static/js/2.501d2981.chunk.js.map",
+    "index.html": "/enstd/index.html",
+    "static/css/2.d1194fe6.chunk.css.map": "/enstd/static/css/2.d1194fe6.chunk.css.map",
+    "static/css/main.c7942577.chunk.css.map": "/enstd/static/css/main.c7942577.chunk.css.map",
+    "static/js/2.501d2981.chunk.js.LICENSE.txt": "/enstd/static/js/2.501d2981.chunk.js.LICENSE.txt",
+    "static/media/common.scss": "/enstd/static/media/Play-Regular.38cbcf1d.woff2",
+    "static/media/banner1.4fc345f7.jpg": "/enstd/static/media/banner1.4fc345f7.jpg",
+    "static/media/banner2.6c79033b.jpg": "/enstd/static/media/banner2.6c79033b.jpg",
+    "static/media/banner3.3cfad8fd.jpg": "/enstd/static/media/banner3.3cfad8fd.jpg",
+    "static/media/Banner.module.scss": "/enstd/static/media/banner__bg.9c7f095e.jpg",
+    "static/media/blog1.75828df5.jpg": "/enstd/static/media/blog1.75828df5.jpg",
+    "static/media/blog2.5886f755.jpg": "/enstd/static/media/blog2.5886f755.jpg",
+    "static/media/blog3.b77a5b17.jpg": "/enstd/static/media/blog3.b77a5b17.jpg",
+    "static/media/certificate.17b2dd51.jpg": "/enstd/static/media/certificate.17b2dd51.jpg",
+    "static/media/location.ae4cd0b7.svg": "/enstd/static/media/location.ae4cd0b7.svg",
+    "static/media/pngegg.fa850b53.png": "/enstd/static/media/pngegg.fa850b53.png",
+    "static/media/post.44930041.jpg": "/enstd/static/media/post.44930041.jpg",
+    "static/media/AboutCompanyPrinciples.module.scss": "/enstd/static/media/principles.1beff468.jpg",
+    "static/media/product1.88852d79.jpg": "/enstd/static/media/product1.88852d79.jpg",
+    "static/media/project1.bf4cc9d0.jpg": "/enstd/static/media/project1.bf4cc9d0.jpg",
+    "static/media/project2.3bf6442f.jpg": "/enstd/static/media/project2.3bf6442f.jpg",
+    "static/media/ribbon.af434a6d.jpg": "/enstd/static/media/ribbon.af434a6d.jpg",
+    "static/media/timeline-1.d1a1ae57.png": "/enstd/static/media/timeline-1.d1a1ae57.png",
+    "static/media/timeline-2.ed2e6783.png": "/enstd/static/media/timeline-2.ed2e6783.png",
+    "static/media/AboutCompanyInfo.module.scss": "/enstd/static/media/trafo_outline_mask.659b03e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da266c6.js",
+    "static/css/2.d1194fe6.chunk.css",
+    "static/js/2.501d2981.chunk.js",
+    "static/css/main.c7942577.chunk.css",
+    "static/js/main.21d1b4de.chunk.js"
+  ]
+}
